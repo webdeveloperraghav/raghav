@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+}
+span{
+    color: red;
+}
+.span2{
+    font-size: 30px;
+    color: red;
+}
+img{
+    border-radius: 100px;
+    height: 80%;
+    width: 80%;
+}
+body{
+    background-color: #F0D9FF;
+}
+p{
+    background-color: aliceblue;
+}
+    
+.font{
+    font-family: 'Dancing Script', cursive;
+
+}
+.con{
+    height: 200px;
+    width: 300px;
+    background-color:  darkorange;
+    border-radius: 30px;
+    box-shadow: 5px 10px #A2B5BB;
+}
+form{
+    padding-left: 30px;
+}
+.img2{
+    border-radius: 50px;
+    height: 10%;
+    width: 10%;
+    position: absolute;
+}
